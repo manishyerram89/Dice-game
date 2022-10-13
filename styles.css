@@ -1,0 +1,44 @@
+body{
+  background-color: #413F42;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+  line-height: 3rem;
+  font-family: monospace;
+  font-size: 6rem;
+  padding-top : 10px;
+  color: #F1F0C0;
+}
+
+.player{
+  font-size: 3rem;
+}
+
+.lastline{
+  text-align: center;
+  font-weight: 100;
+  font-family: "Montserrat";
+  padding-top: 20px;
+  color: #fff;
+}
+
+.dice{
+  display: inline-block;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bold;
+  height : 2rem;
+  size: 5rem;
+
+  color: #F1F0C0;
+}
+
+.container{
+  text-align: center;
+}
+
+.img{
+  width:60%;
+}
